@@ -9,6 +9,7 @@ public class TC2 {
 		System.out.println("Tc23");
 		System.out.println("Tc24");
 		System.out.println("Tc25");
+		System.out.println("Tc26");
 
 	}
 
