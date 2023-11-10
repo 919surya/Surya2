@@ -6,6 +6,8 @@ public class TC2 {
 		
 		
 		System.out.println("Hello world");
+		System.out.println("Hello Nepal");
+		
 
 
 		
